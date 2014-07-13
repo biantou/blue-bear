@@ -1,5 +1,4 @@
 # blue-bear
-=========
 
 Learning some languages:
 
